@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"title": "IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics",
+		"authors": "Matt Neuburg",
+		"rating": 4.0,
+		"book_store": "Amazon",
+		"price": "$43.99"
+	},
+	{
+		"id": 2,
+		"title": "Mastering Swift 5: Deep Dive Into the Latest Edition of the Swift Programming Language, 5th Edition",
+		"authors": "Jon Hoffman",
+		"rating": 4.3,
+		"book_store": "Amazon",
+		"price": "$24.76"
+	},
+	{
+		"id": 3,
+		"title": "Learning Swift: Building Apps for MacOS, IOS, and Beyond",
+		"authors": "Jon Manning, Paris Buttfield-Addison, and Tim Nugent",
+		"rating": 3.7,
+		"book_store": "Amazon",
+		"price": "$43.99"
+	},
+	{
+		"id": 4,
+		"title": "Practical Artificial Intelligence with Swift: From Fundamental Theory to Development of AI-Driven Apps",
+		"authors": "Mars Geldard, Jonathon Manning",
+		"rating": 3.0,
+		"book_store": "Amazon",
+		"price": "$43.99"
+	},
+	{
+		"id": 5,
+		"title": "Beginning IPhone Development with Swift 5: Exploring the IOS SDK",
+		"authors": "Wallace Wang",
+		"rating": 5.0,
+		"book_store": "Amazon",
+		"price": "$25.49"
+  }
+]
