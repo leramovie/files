@@ -1,9 +1,19 @@
 {
-   "id": 1,
-   "title": "IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics",
-   "authors": "Matt Neuburg",
-   "rating": 4.0,
-   "book_store": "Amazon",
-   "price": "$43.99"
-   "image": "1.jpeg"
+  "count": 20,
+  "country": [
+    {
+      "id": 1,
+      "code": "RF",
+      "country": "Russia"
+      "man_years": "60",
+      "woman_years": "70"
+    },
+    {
+      "id": 2,
+      "code": "AU",
+      "country": "Australia",
+      "man_years": "70",
+      "woman_years": "80",
+    }
+  ]
 }
