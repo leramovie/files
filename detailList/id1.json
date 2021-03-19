@@ -1,19 +1,19 @@
 {
-  "count": 20,
-  "country": [
-    {
-      "id": 1,
-      "code": "RF",
-      "country": "Russia",
-      "man_years": "60",
-      "woman_years": "70"
-    },
-    {
-      "id": 2,
-      "code": "AU",
-      "country": "Australia",
-      "man_years": "70",
-      "woman_years": "80",
-    }
-  ]
+   "count":20,
+   "country":[
+      {
+         "id":1,
+         "code":"RF",
+         "country":"Russia",
+         "man_years":"60",
+         "woman_years":"70"
+      },
+      {
+         "id":2,
+         "code":"AU",
+         "country":"Australia",
+         "man_years":"70",
+         "woman_years":"80"
+      }
+   ]
 }
