@@ -92,6 +92,55 @@
          "man_years":"72.99",
          "woman_years":"75.64"
       },
+      {
+         "id":14,
+         "code":"BRB",
+         "country":"Barbados",
+         "man_years":"74.32",
+         "woman_years":"77.66"
+      },
+      {
+         "id":15,
+         "code":"BLR",
+         "country":"Belarus",
+         "man_years":"69.65",
+         "woman_years":"79.62"
+      },
+      {
+         "id":16,
+         "code":"BEL",
+         "country":"Belgium",
+         "man_years":"79.29",
+         "woman_years":"83.51"
+      },
+      {
+         "id":17,
+         "code":"BLZ",
+         "country":"Belize",
+         "man_years":"71.36",
+         "woman_years":"77.77"
+      },
+      {
+         "id":18,
+         "code":"BEN",
+         "country":"Benin",
+         "man_years":"61.19",
+         "woman_years":"65.66"
+      },
+      {
+         "id":19,
+         "code":"BTN",
+         "country":"Bhutan",
+         "man_years":"72.03",
+         "woman_years":"74.39"
+      },
+      {
+         "id":20,
+         "code":"BOL",
+         "country":"Bolivia",
+         "man_years":"71.15",
+         "woman_years":"73.13"
+      },
       
    ]
 }
