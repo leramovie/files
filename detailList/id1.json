@@ -241,10 +241,115 @@
       },
       {
          "id":35,
-         "code":"CHL",
+         "code":"CHN",
          "country":"China",
          "man_years":"74.73",
          "woman_years":"80.49"
+      },
+      {
+         "id":36,
+         "code":"COL",
+         "country":"Colombia",
+         "man_years":"76.69",
+         "woman_years":"81.87"
+      },
+      {
+         "id":37,
+         "code":"COM",
+         "country":"Comoros",
+         "man_years":"65.92",
+         "woman_years":"68.88"
+      },
+      {
+         "id":38,
+         "code":"COD",
+         "country":"Congo",
+         "man_years":"63.81",
+         "woman_years":"65.61"
+      },
+      {
+         "id":39,
+         "code":"CRI",
+         "country":"Costa Rica",
+         "man_years":"78.31",
+         "woman_years":"83.44"
+      },
+      {
+         "id":40,
+         "code":"CIV",
+         "country":"Cote d'Ivoire",
+         "man_years":"60.53",
+         "woman_years":"65.81"
+      },
+      {
+         "id":41,
+         "code":"HRV",
+         "country":"Croatia",
+         "man_years":"75.54",
+         "woman_years":"81.6"
+      },
+      {
+         "id":42,
+         "code":"CUB",
+         "country":"Cuba",
+         "man_years":"75.37",
+         "woman_years":"80.25"
+      },
+      {
+         "id":43,
+         "code":"CYP",
+         "country":"Cyprus",
+         "man_years":"81.12",
+         "woman_years":"85.12"
+      },
+      {
+         "id":44,
+         "code":"CZE",
+         "country":"Czechia",
+         "man_years":"76.3",
+         "woman_years":"81.93"
+      },
+      {
+         "id":45,
+         "code":"KOR",
+         "country":"Korea",
+         "man_years":"69.29",
+         "woman_years":"75.69"
+      },
+      {
+         "id":46,
+         "code":"DNK",
+         "country":"Denmark",
+         "man_years":"79.59",
+         "woman_years":"83.02"
+      },
+      {
+         "id":47,
+         "code":"DJI",
+         "country":"Djibouti",
+         "man_years":"64.1",
+         "woman_years":"67.78"
+      },
+      {
+         "id":48,
+         "code":"DMA",
+         "country":"Dominican Republic",
+         "man_years":"69.76",
+         "woman_years":"76.19"
+      },
+      {
+         "id":49,
+         "code":"ECU",
+         "country":"Ecuador",
+         "man_years":"76.41",
+         "woman_years":"80.5"
+      },
+      {
+         "id":48,
+         "code":"EGY",
+         "country":"Egypt",
+         "man_years":"69.59",
+         "woman_years":"74.14"
       },
       
    ]
