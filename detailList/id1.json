@@ -141,6 +141,111 @@
          "man_years":"71.15",
          "woman_years":"73.13"
       },
+      {
+         "id":21,
+         "code":"BIH",
+         "country":"Bosnia and Herzegovina",
+         "man_years":"74.38",
+         "woman_years":"79.09"
+      },
+      {
+         "id":22,
+         "code":"BWA",
+         "country":"Botswana",
+         "man_years":"58.95",
+         "woman_years":"65.46"
+      },
+      {
+         "id":23,
+         "code":"BRA",
+         "country":"Brazil",
+         "man_years":"72.45",
+         "woman_years":"79.39"
+      },
+      {
+         "id":24,
+         "code":"BRN",
+         "country":"Brunei Darussalam",
+         "man_years":"73.39",
+         "woman_years":"75.36"
+      },      
+      {
+         "id":25,
+         "code":"BGR",
+         "country":"Bulgaria",
+         "man_years":"71.65",
+         "woman_years":"78.6"
+      },
+      {
+         "id":26,
+         "code":"BFA",
+         "country":"Burkina Faco",
+         "man_years":"60.06",
+         "woman_years":"65.23"
+      },
+      {
+         "id":27,
+         "code":"BDI",
+         "country":"Burundi",
+         "man_years":"61.55",
+         "woman_years":"66.14"
+      },
+      {
+         "id":28,
+         "code":"CPV",
+         "country":"Cabo Verde",
+         "man_years":"69.9",
+         "woman_years":"77.94"
+      },      
+      {
+         "id":29,
+         "code":"KHM",
+         "country":"Cambodia",
+         "man_years":"67.23",
+         "woman_years":"72.75"
+      },
+       {
+         "id":30,
+         "code":"CMR",
+         "country":"Cameroon",
+         "man_years":"60.29",
+         "woman_years":"64.5"
+      },
+      {
+         "id":31,
+         "code":"CAN",
+         "country":"Canada",
+         "man_years":"80.4",
+         "woman_years":"84.05"
+      },
+      {
+         "id":32,
+         "code":"CAF",
+         "country":"Central African Republic",
+         "man_years":"50.21",
+         "woman_years":"56.26"
+      },
+      {
+         "id":33,
+         "code":"TCD",
+         "country":"Chad",
+         "man_years":"57.95",
+         "woman_years":"61.34"
+      },
+      {
+         "id":34,
+         "code":"CHL",
+         "country":"Chile",
+         "man_years":"78.09",
+         "woman_years":"83.25"
+      },
+      {
+         "id":35,
+         "code":"CHL",
+         "country":"China",
+         "man_years":"74.73",
+         "woman_years":"80.49"
+      },
       
    ]
 }
