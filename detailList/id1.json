@@ -1,5 +1,5 @@
 {
-   "count":202,
+   "count":182,
    "country":[
       {
          "id":1,
@@ -1191,6 +1191,89 @@
          "man_years":"75.1",
          "woman_years":"78.42"
       },
-      
+      {
+         "id":171,
+         "code":"GBR",
+         "country":"United Kingdom of Great Britain and Northem Ireland",
+         "man_years":"79.79",
+         "woman_years":"82.99"
+      },
+      {
+         "id":172,
+         "code":"ARE",
+         "country":"Tanzania",
+         "man_years":"65.37",
+         "woman_years":"69.26"
+      },
+      {
+         "id":173,
+         "code":"TZA",
+         "country":"Unites Arab Emirate",
+         "man_years":"75.1",
+         "woman_years":"78.42"
+      },
+      {
+         "id":174,
+         "code":"USA",
+         "country":"United States of America",
+         "man_years":"76.28",
+         "woman_years":"80.73"
+      },
+      {
+         "id":175,
+         "code":"URY",
+         "country":"Uruguay",
+         "man_years":"73.48",
+         "woman_years":"80.56"
+      },
+      {
+         "id":176,
+         "code":"UZB",
+         "country":"Uzbekistan",
+         "man_years":"70.76",
+         "woman_years":"75.21"
+      },
+      {
+         "id":177,
+         "code":"VUT",
+         "country":"Vanuatu",
+         "man_years":"62.66",
+         "woman_years":"68.32"
+      },
+      {
+         "id":178,
+         "code":"VEN",
+         "country":"Venezuela",
+         "man_years":"69.91",
+         "woman_years":"78.17"
+      },
+      {
+         "id":179,
+         "code":"VNM",
+         "country":"Viet Nam",
+         "man_years":"69.56",
+         "woman_years":"78.11"
+      },
+      {
+         "id":180,
+         "code":"YEM",
+         "country":"Yemen",
+         "man_years":"64.41",
+         "woman_years":"68.92"
+      },
+      {
+         "id":181,
+         "code":"ZMB",
+         "country":"Zambia",
+         "man_years":"59.54",
+         "woman_years":"65.37"
+      },
+      {
+         "id":182,
+         "code":"ZWE",
+         "country":"Zimbabwe",
+         "man_years":"57.51",
+         "woman_years":"63.61"
+      }
    ]
 }
