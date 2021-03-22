@@ -701,6 +701,55 @@
          "man_years":"72.61",
          "woman_years":"77.08"
       },
+      {
+         "id":101,
+         "code":"MDV",
+         "country":"Maldives",
+         "man_years":"78.63",
+         "woman_years":"80.76"
+      },
+      {
+         "id":102,
+         "code":"MLI",
+         "country":"Mali",
+         "man_years":"62.2",
+         "woman_years":"63.4"
+      },
+      {
+         "id":103,
+         "code":"MLT",
+         "country":"Malta",
+         "man_years":"79.94",
+         "woman_years":"83.8"
+      },
+      {
+         "id":104,
+         "code":"MRT",
+         "country":"Mauritania",
+         "man_years":"68.08",
+         "woman_years":"68.73"
+      },
+      {
+         "id":105,
+         "code":"MUS",
+         "country":"Mauritius",
+         "man_years":"70.955",
+         "woman_years":"77.32"
+      },
+      {
+         "id":106,
+         "code":"MEX",
+         "country":"Mexico",
+         "man_years":"73.13",
+         "woman_years":"78.86"
+      },
+      {
+         "id":107,
+         "code":"Guy",
+         "country":"Guyana",
+         "man_years":"62.45",
+         "woman_years":"69.39"
+      },
       
    ]
 }
