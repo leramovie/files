@@ -1156,6 +1156,41 @@
          "man_years":"74.88",
          "woman_years":"79.19"
       },
+      {
+         "id":166,
+         "code":"TUR",
+         "country":"Turkey",
+         "man_years":"76.44",
+         "woman_years":"80.67"
+      },
+      {
+         "id":167,
+         "code":"TKM",
+         "country":"Turkmenistan",
+         "man_years":"66.48",
+         "woman_years":"72.97"
+      },
+      {
+         "id":168,
+         "code":"UGA",
+         "country":"Uganda",
+         "man_years":"63.24",
+         "woman_years":"70.1"
+      },
+      {
+         "id":169,
+         "code":"UKR",
+         "country":"Ukraine",
+         "man_years":"68",
+         "woman_years":"77.81"
+      },
+      {
+         "id":170,
+         "code":"ARE",
+         "country":"Unites Arab Emirate",
+         "man_years":"75.1",
+         "woman_years":"78.42"
+      },
       
    ]
 }
